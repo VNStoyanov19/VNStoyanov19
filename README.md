@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Veselin
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://4.bp.blogspot.com/-PpwEGHv3ppQ/UCeZxG4YKSI/AAAAAAAAEmo/ycnF2KfRUTQ/s1600/hd-dolphin-wallpaper-with-a-dolphin-with-head-out-of-the-water-hd-dolphins-wallpapers-backgrounds-.jpg)
+![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/90/7a/20/907a20e1626e2911f7cfbb6fefe11a7d.png)
 
 I study prograamming in VSCPI in Burgas, I live in Varna, Bulgaria. My favourite language is C++. If u want to improve your skills in C++ - https://www.programiz.com/
 
