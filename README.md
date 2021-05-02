@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Veselin
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://4.bp.blogspot.com/-PpwEGHv3ppQ/UCeZxG4YKSI/AAAAAAAAEmo/ycnF2KfRUTQ/s1600/hd-dolphin-wallpaper-with-a-dolphin-with-head-out-of-the-water-hd-dolphins-wallpapers-backgrounds-.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I study prograamming in VSCPI in Burgas, I live in Varna, Bulgaria. My favourite language is C++. If u want to improve your skills in C++ - https://www.programiz.com/
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C++ / PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
